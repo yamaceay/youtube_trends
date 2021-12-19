@@ -1,0 +1,162 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:00.500
+ 
+
+00:00:00.500 --> 00:00:03.680
+SPEAKER: When we started,
+we made this for everyone
+
+00:00:03.680 --> 00:00:05.510
+so that everyone
+could find anything
+
+00:00:05.510 --> 00:00:07.830
+they need among the
+millions of bazillions
+
+00:00:07.830 --> 00:00:09.920
+of things in the world.
+
+00:00:09.920 --> 00:00:12.000
+Today, it seems
+like sometimes it's
+
+00:00:12.000 --> 00:00:14.720
+easy to feel like you need a
+little help with the stuff just
+
+00:00:14.720 --> 00:00:18.740
+in your own world-- your photos,
+phone, videos, calendars,
+
+00:00:18.740 --> 00:00:21.700
+messages, friends, trips,
+reservations, and so on
+
+00:00:21.700 --> 00:00:23.100
+and so on.
+
+00:00:23.100 --> 00:00:26.250
+Wouldn't it be nice if you
+had some help with all that?
+
+00:00:26.250 --> 00:00:29.380
+Wouldn't it be nice if you
+had a Google for your world?
+
+00:00:29.380 --> 00:00:31.347
+That's why we're building
+the Google Assistant.
+
+00:00:31.347 --> 00:00:32.430
+GOOGLE ASSISTANT: Hi, Amy.
+
+00:00:32.430 --> 00:00:33.426
+How can I help?
+
+00:00:33.426 --> 00:00:35.050
+SPEAKER: You just
+ask it what you need.
+
+00:00:35.050 --> 00:00:38.140
+Ok, Google, what do
+I have to do today?
+
+00:00:38.140 --> 00:00:40.690
+And your system understands
+and helps you out.
+
+00:00:40.690 --> 00:00:42.910
+You can even carry on
+a conversation with it.
+
+00:00:42.910 --> 00:00:45.470
+How long will it take to get
+to downtown Chicago from home?
+
+00:00:45.470 --> 00:00:46.720
+GOOGLE ASSISTANT: Here you go.
+
+00:00:46.720 --> 00:00:48.890
+SPEAKER: What
+restaurants are there?
+
+00:00:48.890 --> 00:00:50.842
+Book a table at
+Quartino Restaurant.
+
+00:00:50.842 --> 00:00:51.800
+GOOGLE ASSISTANT: Sure.
+
+00:00:51.800 --> 00:00:54.150
+SPEAKER: And the assistant
+is always there for you,
+
+00:00:54.150 --> 00:00:57.400
+so if you're on the road you
+can ask it where to fill up.
+
+00:00:57.400 --> 00:01:00.460
+And if you're at home, you
+can ask it to play some music.
+
+00:01:00.460 --> 00:01:02.450
+Or if you're in a
+chat with a friend,
+
+00:01:02.450 --> 00:01:04.410
+it can show you what's
+playing tonight.
+
+00:01:04.410 --> 00:01:06.640
+It's like your own
+personal Google.
+
+00:01:06.640 --> 00:01:10.780
+Naturally, anything you share
+with it is safe and secure.
+
+00:01:10.780 --> 00:01:13.510
+And the more you use your Google
+Assistant, the more useful
+
+00:01:13.510 --> 00:01:14.680
+it becomes.
+
+00:01:14.680 --> 00:01:17.219
+Remember my bike combo is 3 2 6.
+
+00:01:17.219 --> 00:01:18.260
+GOOGLE ASSISTANT: Got it.
+
+00:01:18.260 --> 00:01:20.180
+SPEAKER: And soon, you'll
+be able to access it
+
+00:01:20.180 --> 00:01:24.220
+from all sorts of places, so
+it will be everywhere you are.
+
+00:01:24.220 --> 00:01:26.400
+We made this for everyone.
+
+00:01:26.400 --> 00:01:29.105
+And today, we're making
+this just for you.
+
+00:01:29.105 --> 00:01:29.980
+GOOGLE ASSISTANT: Hi.
+
+00:01:29.980 --> 00:01:30.940
+How can I help?
+
+00:01:30.940 --> 00:01:33.130
+SPEAKER: Meet your
+Google Assistant.
+
+00:01:33.130 --> 00:01:35.804
+ 
+

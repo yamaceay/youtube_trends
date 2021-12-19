@@ -1,0 +1,26 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.700 --> 00:00:03.970
+♪ "Lenguas" by Elephant Heart ♪
+
+00:00:04.003 --> 00:00:18.952 align:start size:3% position:97% line:0%
+♪
+
+00:00:18.952 --> 00:00:28.394 align:start size:3% position:97% line:0%
+♪
+
+00:00:28.427 --> 00:00:29.695
+♪ Can we have your attention? ♪
+
+00:00:29.729 --> 00:00:31.564
+♪ We'd like to make sure that
+your seatbelts are fastened. ♪
+
+00:00:31.597 --> 00:00:46.546 align:start size:3% position:97% line:0%
+♪
+
+00:00:46.546 --> 00:00:51.051 align:start size:3% position:97% line:0%
+♪
+

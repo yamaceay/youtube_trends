@@ -1,0 +1,14 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.240 --> 00:00:04.440
+I love you
+- Prove it!
+
+00:00:35.560 --> 00:00:36.640
+And you,
+
+00:00:37.400 --> 00:00:38.480
+what would you do for love?
+

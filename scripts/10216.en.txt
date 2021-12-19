@@ -1,0 +1,65 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.001 --> 00:00:05.505 line:0%
+♪<00:00:02.034><c> "</c><00:00:02.067><c>Dr</c><00:00:02.101><c>ea</c><00:00:02.134><c>m </c><00:00:02.167><c>Gi</c><00:00:02.201><c>rl</c><00:00:02.234><c>"</c>
+<00:00:02.334><c>by</c><00:00:02.368><c> A</c><00:00:02.401><c>nn</c><00:00:02.434><c>a </c><00:00:02.468><c>of</c><00:00:02.501><c> t</c><00:00:02.534><c>he</c><00:00:02.568><c> N</c><00:00:02.601><c>or</c><00:00:02.635><c>th</c><00:00:02.668><c> </c><00:00:02.701><c>♪</c>
+
+00:00:06.672 --> 00:00:09.476 line:0%
+♪ I'm always walking to
+the same old place ♪
+
+00:00:09.476 --> 00:00:12.178 line:0%
+♪ Just in case
+I see your face ♪
+
+00:00:12.778 --> 00:00:14.847 line:0%
+♪ I'm gonna buy a drink
+and while I wait ♪
+
+00:00:15.314 --> 00:00:18.685 line:0%
+♪ I'ma eat my cake,
+make the same mistakes ♪
+
+00:00:18.685 --> 00:00:22.321 line:0%
+♪ I know that you don't think
+that I can be the one ♪
+
+00:00:22.855 --> 00:00:24.624 line:0%
+♪ But I can be your one ♪
+
+00:00:24.624 --> 00:00:27.359 line:0%
+♪ I may be acting crazy
+now it's getting late ♪
+
+00:00:27.359 --> 00:00:29.028 line:0%
+♪ They took my heart away ♪
+
+00:00:29.028 --> 00:00:30.697 line:0%
+♪ But I'll be okay, 'cause ♪
+
+00:00:31.697 --> 00:00:34.534 line:0%
+♪ In my dream world ♪
+
+00:00:34.534 --> 00:00:37.536 line:0%
+♪ I'm still your dream girl ♪
+
+00:00:37.536 --> 00:00:40.373 line:0%
+♪ No if, buts, or maybes ♪
+
+00:00:40.373 --> 00:00:43.209 line:0%
+♪ I'm still your baby ♪
+
+00:00:43.710 --> 00:00:49.548 line:0%
+♪ Ooh,
+I'm still your dream girl ♪
+
+00:00:49.849 --> 00:00:55.554 line:0%
+♪ Ooh,
+I'm still your dream girl ♪
+
+00:00:56.155 --> 00:01:01.728 line:0%
+♪ Ooh,
+I'm still your dream girl ♪
+

@@ -1,0 +1,14 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.982
+[MUSIC - DANGER TWINS, "MAKE IT
+ LOOK EASY"]
+
+00:00:31.100 --> 00:00:32.540
+[CHIME]
+
+00:00:32.540 --> 00:00:35.460
+[SIGH]
+

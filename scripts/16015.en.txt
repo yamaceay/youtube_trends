@@ -1,0 +1,36 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.167 --> 00:00:03.736
+♪ “Trampoline” by SHAED
+I've been having dreams. ♪
+
+00:00:03.736 --> 00:00:06.239
+♪ Jumping on a trampoline. ♪
+
+00:00:06.239 --> 00:00:07.506 align:start size:6% position:94% line:0%
+♪♪
+
+00:00:07.506 --> 00:00:09.942
+♪ Flipping in the air. ♪
+
+00:00:09.942 --> 00:00:11.110 align:start size:6% position:94% line:0%
+♪♪
+
+00:00:11.110 --> 00:00:15.014
+♪ I never land
+just float there. ♪
+
+00:00:15.014 --> 00:00:21.287
+♪ [Whistling] ♪
+
+00:00:21.287 --> 00:00:24.624
+♪ I never feel so loved. ♪
+
+00:00:24.624 --> 00:00:26.425 align:start size:6% position:94% line:0%
+♪♪
+
+00:00:26.425 --> 00:00:29.496
+♪ La, la, la, la, la ♪
+

@@ -1,0 +1,19 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.000 --> 00:00:04.040
+They say the time of heroes is over.
+
+00:00:09.000 --> 00:00:12.040
+That if you’re ‘different,’ you’re dangerous.
+
+00:00:18.000 --> 00:00:20.060
+But I know the truth.
+
+00:00:26.060 --> 00:00:29.080
+The world will always need heroes.
+
+00:00:33.020 --> 00:00:37.060
+We just need to reassemble.
+

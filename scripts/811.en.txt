@@ -1,0 +1,25 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.560 --> 00:00:05.360
+Jump Aboard
+
+00:00:06.860 --> 00:00:07.420
+Set sail
+
+00:00:08.620 --> 00:00:10.140
+And Explore A New World
+
+00:00:21.760 --> 00:00:22.640
+New Building
+
+00:00:28.480 --> 00:00:29.200
+New Troops
+
+00:00:34.480 --> 00:00:35.520
+New Battle Mode
+
+00:00:37.980 --> 00:00:38.780
+Head To Head
+

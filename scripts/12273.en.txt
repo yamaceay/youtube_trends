@@ -1,0 +1,242 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:05.360 --> 00:00:08.560
+It's quite common that we got iPhone from our friends,
+
+00:00:08.560 --> 00:00:11.720
+but not so often that we are not able to unlock it.
+
+00:00:12.240 --> 00:00:16.239
+For example if they forgot the passcode for the lock screen,
+
+00:00:16.320 --> 00:00:19.640
+or lost the apple id with Find My iPhone enabled.
+
+00:00:20.000 --> 00:00:23.960
+Of course we didn't expect things get so complicated.
+
+00:00:24.320 --> 00:00:30.480
+In this tutorial we'll show you an easy way to unlock the phone
+without using the passcode and Apple ID.
+
+00:00:30.800 --> 00:00:32.039
+Let's jump in!
+
+00:00:32.920 --> 00:00:35.799
+First, let's remove the screen lock.
+
+00:00:36.119 --> 00:00:39.479
+To do this, start iTunes on your computer,
+
+00:00:39.840 --> 00:00:43.759
+Then plug your phone in and put it into recovery mode.
+
+00:00:44.200 --> 00:00:48.359
+For iPhone X, is press and quickly release the volume up button,
+
+00:00:48.359 --> 00:00:51.799
+then press and quickly release the volume down button,
+
+00:00:51.880 --> 00:00:56.280
+then press and hold the side button till the
+connect to computer icon comes up.
+
+00:00:57.439 --> 00:01:01.799
+Once detected, you'll get a message suggesting an update or restore,
+
+00:01:01.840 --> 00:01:04.120
+we are going to select the restore,
+
+00:01:04.879 --> 00:01:07.400
+then click Update and Restore to confirm,
+
+00:01:08.560 --> 00:01:11.079
+agree to the terms and conditions,
+
+00:01:11.239 --> 00:01:16.920
+it's downloading the firmware now, you can
+proceed with the restore once it completed.
+
+00:01:30.079 --> 00:01:32.200
+Now that we see the Hello screen,
+
+00:01:32.319 --> 00:01:34.480
+let's go ahead and set it up,
+
+00:01:35.840 --> 00:01:39.959
+after connecting to a network, we should see a screen like this:
+
+00:01:40.159 --> 00:01:43.040
+it's asking for the Apple ID and password,
+
+00:01:43.519 --> 00:01:47.319
+if your friend forgot that too, then here comes the second part:
+
+00:01:47.519 --> 00:01:49.439
+Bypass the Activation Lock,
+
+00:01:50.079 --> 00:01:52.760
+The tool we are using here is 4MeKey.
+
+00:01:53.200 --> 00:01:56.959
+I'll leave the link in the description
+below in case you want to download.
+
+00:01:57.519 --> 00:02:01.239
+So once installed, attach your phone to the computer,
+
+00:02:01.680 --> 00:02:05.159
+then hit the blue button on each screen till you get here,
+
+00:02:05.760 --> 00:02:09.800
+it's saying we need a jailbreak here's a link to the tutorial,
+
+00:02:10.159 --> 00:02:14.199
+a step-by-step guide on how to jailbreak an iPhone on windows.
+
+00:02:14.639 --> 00:02:16.080
+Let's give it a shot,
+
+00:02:16.560 --> 00:02:19.759
+First, download the two jailbreak tools,
+
+00:02:19.759 --> 00:02:22.080
+once done, open rufus,
+
+00:02:24.560 --> 00:02:28.400
+then insert an empty usb thumb drive into your computer,
+
+00:02:28.800 --> 00:02:32.879
+now go back to rufus select the Checra1n ISO file.
+
+00:02:35.680 --> 00:02:38.439
+Now we can start creating the bootable drive.
+
+00:02:38.680 --> 00:02:41.879
+here we are going to choose the Write in DD image mode,
+
+00:02:43.039 --> 00:02:45.240
+then hit ok for each pop-ups
+
+00:02:51.520 --> 00:02:55.120
+[Music]
+
+00:02:55.120 --> 00:02:57.599
+Once done, Reboot the computer,
+
+00:02:58.080 --> 00:03:02.879
+[Music]
+
+00:03:02.879 --> 00:03:07.360
+when it boots up, hit the F12 key to enter the boot options,
+
+00:03:07.680 --> 00:03:11.080
+Once in, select the usb storage device,
+
+00:03:11.199 --> 00:03:12.800
+press enter to confirm.
+
+00:03:13.520 --> 00:03:16.719
+Now wait for the checkra1n jailbreak wizard to show up,
+
+00:03:17.680 --> 00:03:19.919
+OK, now that we are here,
+
+00:03:19.919 --> 00:03:24.879
+it's saying iPhone X is not supported on iOS 14.2 at this point,
+
+00:03:24.879 --> 00:03:27.360
+that's because we have one more step to go,
+
+00:03:27.360 --> 00:03:29.400
+which is to go inside Option, 
+
+00:03:29.520 --> 00:03:32.680
+then check off the skip BPR check,
+
+00:03:35.759 --> 00:03:38.759
+Once we've done it, go ahead and quit back,
+
+00:03:40.159 --> 00:03:42.879
+now we can proceed by clicking on Start,
+
+00:03:43.280 --> 00:03:47.800
+the device will be put in recovery mode first, hit next to confirm,
+
+00:03:53.680 --> 00:03:56.400
+Once we are in recovery mode, click start,
+
+00:03:56.400 --> 00:04:01.000
+and follow the instructions to enter DFU
+mode before the countdown is over,
+
+00:04:01.479 --> 00:04:07.280
+For iPhone X, is press and hold both the power and volume down button for 4 seconds,
+
+00:04:07.280 --> 00:04:12.919
+then release the power button while continue holding the volume down button
+for another 10 seconds,
+
+00:04:13.439 --> 00:04:18.800
+Once we are in DFU mode, the jailbreak process will be reflected on the device.
+
+00:04:19.839 --> 00:04:26.480
+[Music]
+
+00:04:26.480 --> 00:04:30.040
+Well done, now we are going to restart the computer,
+
+00:04:30.399 --> 00:04:33.120
+and then launch 4MeKey to start over.
+
+00:04:33.439 --> 00:04:36.720
+Like before, we click on each of the blue buttons,
+
+00:04:36.959 --> 00:04:42.439
+This time we should see the device information confirmation screen
+and the Start remove button,
+
+00:04:42.639 --> 00:04:46.120
+by clicking on it, 4MeKey will show you the magic.
+
+00:04:46.920 --> 00:04:55.360
+[Music]
+
+00:04:55.360 --> 00:05:00.800
+Well done, now it says the iCloud Activation lock has been removed successfully,
+
+00:05:01.040 --> 00:05:02.519
+let's check it out.
+
+00:05:05.519 --> 00:05:08.000
+We should see the data and privacy option, 
+
+00:05:08.120 --> 00:05:11.720
+which means the activation lock is no longer ahead our way.
+
+00:05:12.079 --> 00:05:13.399
+Let's move on, 
+
+00:05:14.240 --> 00:05:18.560
+when we got to the Apple ID sign in option， make sure to skip it，
+
+00:05:18.720 --> 00:05:20.839
+and proceed to the Home screen.
+
+00:05:25.800 --> 00:05:29.079
+[Music]
+
+00:05:31.040 --> 00:05:35.639
+Then in Settings, we should notice the Apple account has been signed out,
+
+00:05:35.879 --> 00:05:36.800
+That's it!
+
+00:05:36.920 --> 00:05:38.079
+Thanks for watching.
+
+00:05:38.399 --> 00:05:40.519
+See you in the next video.
+
